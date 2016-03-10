@@ -1,2 +1,1 @@
-# BigData-Matrimony-AnalysisNOVAK
-Analysis of Matrimony Website in BIGDATA
+# BigData-Matrimonial-Analysis
